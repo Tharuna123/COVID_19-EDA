@@ -1,14 +1,14 @@
-# COVID-19 Exploratory Data Analysis (EDA)
+# COVID-19 Exploratory Data Analysis
 
 ## 📌 Project Overview
-This project performs Exploratory Data Analysis on the COVID-19 dataset
-to understand the spread, trends, and impact of the pandemic across regions.
+This project performs Exploratory Data Analysis (EDA) on the COVID-19 dataset
+to understand trends, patterns, and insights using Python.
 
 ## 📊 Dataset
-- Source: WHO / Our World in Data / Kaggle
-- Contains confirmed cases, deaths, recoveries, and trends over time
+- Dataset: COVID-19 data
+- Source: Public COVID-19 dataset
 
-## 🛠️ Tools & Libraries Used
+## 🛠 Tools & Libraries Used
 - Python
 - Pandas
 - NumPy
@@ -16,17 +16,16 @@ to understand the spread, trends, and impact of the pandemic across regions.
 - Seaborn
 - Jupyter Notebook
 
-## 🔍 EDA Highlights
-- Global confirmed cases trend
-- Country-wise analysis
-- Death and recovery rate comparison
-- Time-series visualization
+## 🔍 Analysis Performed
+- Data cleaning and preprocessing
 - Handling missing values
+- Statistical analysis
+- Visualization of COVID-19 trends
 
-## 📁 Files in Repository
-- COVID19_EDA.ipynb – Main analysis notebook
-- covid_19_data.csv – Dataset used
+## 📈 Results
+The analysis helps in understanding the spread, recovery trends, and
+comparative insights across different regions.
 
-## ✅ Conclusion
-COVID-19 cases showed exponential growth in early stages, with significant
-variation in impact across different countries and time periods.
+## 📁 File Structure
+- `COVID19_EDA.ipynb` – Jupyter notebook containing analysis
+- `README.md` – Project documentation
